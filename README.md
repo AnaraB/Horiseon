@@ -21,10 +21,11 @@ The following image shows the web application's appearance and functionality:
 ![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page](assets/images/screenshot.png)
 
 
-Navigate to <your-github-username.github.io/your-repository-name> and to find the  webpage. 
+Navigate to <https://anarab.github.io/Horiseon/> and to find the  webpage. 
 
 ## Credits
-<your-github-username.github.io/your-repository-name>
+GitHub page
+<https://github.com/AnaraB>
 
 ## License 
 
